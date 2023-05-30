@@ -1,4 +1,4 @@
-# Telecom Churn Prediction
+# Telecom Churn Prediction - in progress
 > Objectives
  The main goal of this case study is to develop machine learning models for predicting churn. The predictive models have the following purposes:
 
