@@ -21,9 +21,4 @@
 
  ### Citation
 
- @misc{telecom-churn-case-study-hackathon-c45,
-    author = {Upgrad},
-    title = {Telecom Churn Case Study Hackathon},
-    howpublished = {\url{https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45}},
-    year = {2023}
-}
+ <p>Upgrad. (2023). Telecom Churn Case Study Hackathon. [Online]. Available: <a href="https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45">https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45</a></p>
