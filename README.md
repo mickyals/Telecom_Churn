@@ -13,7 +13,7 @@ The main goal of this case study is to develop machine learning models for predi
 
 Based on observations, strategies for managing customer churn are recommended.
 
- ### Contents
+> ### Contents
 
  | Filename | Description | Format |
  |----------|-------------|--------|
@@ -21,9 +21,9 @@ Based on observations, strategies for managing customer churn are recommended.
 
 
 
- ### Summary and Findings
+> ### Summary and Findings
 
 
- ### Citation
+> ### Citation
 
  <p>Upgrad. (2023). Telecom Churn Case Study Hackathon. [Online]. Available: <a href="https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45">https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45</a></p>
