@@ -6,7 +6,7 @@
 > For many incumbent operators, retaining high profitable customers is the number one business goal. To reduce customer churn, telecom companies need to predict which customers are at high risk of churn. In this project, you will analyze customer-level data of a leading telecom firm, build predictive models to identify customers at high risk of churn.
 
 > In this competition, your goal is to build a machine learning model that is able to predict churning customers based on the features provided for their usage.
-
+_____
 > ### Objectives
 > The main goal of this case study is to develop machine learning models for predicting churn. The predictive models have the following purposes:
 -  Predicting whether a high-value customer is likely to churn in the near future (i.e., churn phase). This information can assist the company in taking proactive measures such as offering special plans or discounts on recharge to retain customers.
