@@ -26,4 +26,4 @@ Based on observations, strategies for managing customer churn are recommended.
 
 > ### Citation
 
- <p>Upgrad. (2023). Telecom Churn Case Study Hackathon. [Online]. Available: <a href="https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45">https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c45</a></p>
+ <p>Tannu Jain, Upgrad. (2023). Telecom Churn Case Study Hackathon. [Online]. Available: <a href="https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c48">https://kaggle.com/competitions/telecom-churn-case-study-hackathon-c48</a></p>
